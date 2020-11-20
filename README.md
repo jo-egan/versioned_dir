@@ -5,4 +5,8 @@ repository on GitHub
 
 This is an extra line of text added to the copy of README.md in the cloned repository
 
-Another new line, this one's for the exercise!
+This new introduction contains a new list of items:
+
+*thing 1
+*thing 2
+*thing 3
